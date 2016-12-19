@@ -1,4 +1,4 @@
-# DataStructures
+# Data Structures
 A look at data structures in C# (a work in progress)
 ## Contents
 
