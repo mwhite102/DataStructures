@@ -5,3 +5,5 @@ A look at data structures in C# (a work in progress)
 Singly Linked List
 
 Doubly Linked List
+
+Array List
