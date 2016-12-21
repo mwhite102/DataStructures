@@ -2,10 +2,10 @@
 using DataStructures.SinglyLinkedList;
 using System.Collections.Generic;
 
-namespace DataStructures.SinglySinglyLinkedList.Tests
+namespace DataStructures.SinglyLinkedList.Tests
 {
     [TestClass()]
-    public class SinglySinglyLinkedListTests
+    public class SinglyLinkedListTests
     {
         private SinglyLinkedList<int> InitSinglyLinkedList()
         {

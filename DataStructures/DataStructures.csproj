@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArrayList\AnArrayList.cs" />
+    <Compile Include="Deque\ADeque.cs" />
     <Compile Include="DoublyLinkedList\DoublyLinkedList.cs" />
     <Compile Include="DoublyLinkedList\DoublyLinkedListNode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

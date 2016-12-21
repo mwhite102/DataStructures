@@ -26,3 +26,6 @@ A collection that returns elements in the collection in a Last In, First Out (LI
 
 ####Queue
 A collection that returns elements in the collection in First In, First Out (FIFO) pattern.
+
+####Deque
+A Deque (pronounced "Deck") is a Double-Ended Queue.  Elements can be added and removed from both ends of the collection.
