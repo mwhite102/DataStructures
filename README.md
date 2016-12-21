@@ -20,3 +20,9 @@ A linear collection of elements (nodes), with each element pointing to the next 
 ####Array List
 
 An Array List is similar to a Linked List but adds the ability to directly access elements by index.  As the name implies, the Array List is backed by an array.
+
+####Stack
+A collection that returns elements in the collection in a Last In, First Out (LIFO) pattern.
+
+####Queue
+A collection that returns elements in the collection in First In, First Out (FIFO) pattern.
