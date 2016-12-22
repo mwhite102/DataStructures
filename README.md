@@ -29,3 +29,6 @@ A collection that returns elements in the collection in First In, First Out (FIF
 
 ####Deque
 A Deque (pronounced "Deck") is a Double-Ended Queue.  Elements can be added and removed from both ends of the collection.
+
+####BinaryTree
+A BinaryTree implementation.
