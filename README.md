@@ -32,3 +32,6 @@ A Deque (pronounced "Deck") is a Double-Ended Queue.  Elements can be added and 
 
 ####BinaryTree
 A BinaryTree implementation.
+
+####Set
+A Set is a collection implementing basic algebraic set algorithms such as union, intersection, difference and symmetric difference.

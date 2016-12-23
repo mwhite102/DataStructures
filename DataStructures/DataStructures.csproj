@@ -48,6 +48,7 @@
     <Compile Include="DoublyLinkedList\DoublyLinkedListNode.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Queue\AQueue.cs" />
+    <Compile Include="Sets\Set.cs" />
     <Compile Include="SinglyLinkedList\SinglyLinkedList.cs" />
     <Compile Include="SinglyLinkedList\SinglyLinkedListNode.cs" />
     <Compile Include="Stack\AStack.cs" />
