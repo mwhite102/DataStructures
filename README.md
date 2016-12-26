@@ -35,3 +35,12 @@ A BinaryTree implementation.
 
 ####Set
 A Set is a collection implementing basic algebraic set algorithms such as union, intersection, difference and symmetric difference.
+
+####Sorting Algorithms
+Added implementations of the following sorting algorithms
+
+- Bubble Sort
+- Insertion Sort
+- Selection Sort
+- Merge Sort
+- Quick Sort
