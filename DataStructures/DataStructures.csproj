@@ -51,6 +51,7 @@
     <Compile Include="Sets\Set.cs" />
     <Compile Include="SinglyLinkedList\SinglyLinkedList.cs" />
     <Compile Include="SinglyLinkedList\SinglyLinkedListNode.cs" />
+    <Compile Include="Sorting\SortingAlgorithms.cs" />
     <Compile Include="Stack\AStack.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

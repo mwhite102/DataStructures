@@ -60,6 +60,7 @@
     <Compile Include="Queue\AQueueTests.cs" />
     <Compile Include="Sets\SetTests.cs" />
     <Compile Include="SinglyLinkedList\SinglyLinkedListTests.cs" />
+    <Compile Include="Sorting\SortingAlgorithmsTests.cs" />
     <Compile Include="Stack\AStackTests.cs" />
   </ItemGroup>
   <ItemGroup>
