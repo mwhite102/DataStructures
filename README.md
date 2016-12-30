@@ -1,7 +1,7 @@
 #Data Structures
 A look at data structures in C# (a work in progress)
 
-This project is the result of working through the *Data Structures Succinctly Part 1* eBook by Robert Horvick from [Syncfusion](https://www.syncfusion.com).
+This project is the result of working through the *Data Structures Succinctly Part 1* and *Data Structures Succinctly Part 2* eBooks by Robert Horvick from [Syncfusion](https://www.syncfusion.com).
 
 [Syncfusion](https://www.syncfusion.com) has 100+ eBooks covering a wide variety of technologies, available for free.  You do have to create an account to access them.
 
@@ -44,3 +44,6 @@ Added implementations of the following sorting algorithms
 - Selection Sort
 - Merge Sort
 - Quick Sort
+
+####SkipList
+An ordered collection of items in a linked list type structure that allows O(log *n*) insertion, removal, and search.

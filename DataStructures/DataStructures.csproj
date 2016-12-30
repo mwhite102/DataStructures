@@ -51,9 +51,12 @@
     <Compile Include="Sets\Set.cs" />
     <Compile Include="SinglyLinkedList\SinglyLinkedList.cs" />
     <Compile Include="SinglyLinkedList\SinglyLinkedListNode.cs" />
+    <Compile Include="SkipList\SkipList.cs" />
+    <Compile Include="SkipList\SkipListNode.cs" />
     <Compile Include="Sorting\SortingAlgorithms.cs" />
     <Compile Include="Stack\AStack.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
