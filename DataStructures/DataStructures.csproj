@@ -46,6 +46,10 @@
     <Compile Include="Deque\ADeque.cs" />
     <Compile Include="DoublyLinkedList\DoublyLinkedList.cs" />
     <Compile Include="DoublyLinkedList\DoublyLinkedListNode.cs" />
+    <Compile Include="HashTable\HashTable.cs" />
+    <Compile Include="HashTable\HashTableArray.cs" />
+    <Compile Include="HashTable\HashTableArrayNode.cs" />
+    <Compile Include="HashTable\HashTableNodePair.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Queue\AQueue.cs" />
     <Compile Include="Sets\Set.cs" />
