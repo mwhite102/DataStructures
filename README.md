@@ -49,4 +49,7 @@ Added implementations of the following sorting algorithms
 An ordered collection of items in a linked list type structure that allows O(log *n*) insertion, removal, and search.
 
 ####HashTable
-A hash table is a collection that stores key / value pairs that allows for fast insertion, lookups, and removal. 
+A hash table is a collection that stores key / value pairs that allows for fast insertion, lookups, and removal.
+
+####Heap
+An implementation of Max Heap that stores its tree structure in an array backing store.
