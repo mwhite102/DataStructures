@@ -51,6 +51,7 @@
     <Compile Include="HashTable\HashTableArrayNode.cs" />
     <Compile Include="HashTable\HashTableNodePair.cs" />
     <Compile Include="Heap\Heap.cs" />
+    <Compile Include="PriorityQueue\PriorityQueue.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Queue\AQueue.cs" />
     <Compile Include="Sets\Set.cs" />
