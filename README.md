@@ -56,3 +56,6 @@ An implementation of Max Heap that stores its tree structure in an array backing
 
 ####PriorityQueue
 A PriorityQueue implementation.  Works like a queue, but the item dequeued is always the item with the highest priority.
+
+####AVLTree
+An implementation of an AVLTree.  A binary tree implementation that maintains a balanced tree.

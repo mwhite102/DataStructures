@@ -41,6 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArrayList\AnArrayList.cs" />
+    <Compile Include="AVLTree\AVLTree.cs" />
+    <Compile Include="AVLTree\AVLTreeNode.cs" />
     <Compile Include="BinarySearchTree\BinaryTree.cs" />
     <Compile Include="BinarySearchTree\BinaryTreeNode.cs" />
     <Compile Include="Deque\ADeque.cs" />
