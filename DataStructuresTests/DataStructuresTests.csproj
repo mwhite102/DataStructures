@@ -52,6 +52,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="ArrayList\AnArrayListTests.cs" />
+    <Compile Include="AVLTree\AVLTreeTests.cs" />
     <Compile Include="BinarySearchTree\BinaryTreeNodeTests.cs" />
     <Compile Include="BinarySearchTree\BinaryTreeTests.cs" />
     <Compile Include="Deque\ADequeTests.cs" />
