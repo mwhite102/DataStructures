@@ -1,5 +1,5 @@
 #Data Structures
-A look at data structures in C# (a work in progress)
+A look at data structures in C#.
 
 This project is the result of working through the *Data Structures Succinctly Part 1* and *Data Structures Succinctly Part 2* eBooks by Robert Horvick from [Syncfusion](https://www.syncfusion.com).
 
@@ -59,3 +59,6 @@ A PriorityQueue implementation.  Works like a queue, but the item dequeued is al
 
 ####AVLTree
 An implementation of an AVLTree.  A binary tree implementation that maintains a balanced tree.
+
+####B-Tree
+An implementation of a B-Tree.  A sorted, balanced tree structure.
