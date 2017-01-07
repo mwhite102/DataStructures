@@ -45,6 +45,7 @@
     <Compile Include="AVLTree\AVLTreeNode.cs" />
     <Compile Include="BinarySearchTree\BinaryTree.cs" />
     <Compile Include="BinarySearchTree\BinaryTreeNode.cs" />
+    <Compile Include="BTree\BTree.cs" />
     <Compile Include="BTree\BTreeNode.cs" />
     <Compile Include="Deque\ADeque.cs" />
     <Compile Include="DoublyLinkedList\DoublyLinkedList.cs" />
