@@ -39,8 +39,7 @@ namespace DataStructures.BTree
         {
             get
             {
-                throw new NotImplementedException();
-                // ?? return 2 * MinimumDegree - 1 == _values.Count;
+                return 2 * MinimumDegree - 1 == _values.Count;
             }
         }
 
