@@ -55,6 +55,7 @@
     <Compile Include="AVLTree\AVLTreeTests.cs" />
     <Compile Include="BinarySearchTree\BinaryTreeNodeTests.cs" />
     <Compile Include="BinarySearchTree\BinaryTreeTests.cs" />
+    <Compile Include="BTree\BTreeTests.cs" />
     <Compile Include="Deque\ADequeTests.cs" />
     <Compile Include="DoublyLinkedList\DoublyLinkedListTests.cs" />
     <Compile Include="HashTable\HashTableTests.cs" />
